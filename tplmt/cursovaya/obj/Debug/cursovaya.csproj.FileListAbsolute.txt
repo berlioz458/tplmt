@@ -1,0 +1,9 @@
+c:\users\catarina\documents\visual studio 2015\Projects\cursovaya\cursovaya\bin\Debug\cursovaya.exe.config
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\bin\Debug\cursovaya.exe
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\bin\Debug\cursovaya.pdb
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\obj\Debug\cursovaya.csprojResolveAssemblyReference.cache
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\obj\Debug\cursovaya.Form1.resources
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\obj\Debug\cursovaya.Properties.Resources.resources
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\obj\Debug\cursovaya.csproj.GenerateResource.Cache
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\obj\Debug\cursovaya.exe
+C:\Users\catarina\Documents\Visual Studio 2015\Projects\cursovaya\cursovaya\obj\Debug\cursovaya.pdb
